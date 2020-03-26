@@ -1,14 +1,8 @@
 # hello-Github
 this is my first repository to say hello Github!!
 
-i clone one !!
-
-i moddiy one in github!!
-
-i moddiy one in local!!
-
-i moddiy two in local!!
-
-i moddiy two in github!!
+这是我第一个创建的github仓库，希望世界可以带来好运！
+加油！
+今天天气不错！
 
 》》？？
